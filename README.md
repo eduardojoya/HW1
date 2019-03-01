@@ -1,1 +1,1 @@
-Must run build.sh or build.py to generate page
+Static site generator that requires build.sh or build.py to generate page
