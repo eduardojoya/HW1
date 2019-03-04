@@ -1,1 +1,1 @@
-Static site generator that requires build.sh or build.py to generate page
+This is an sample static site generator using bash and python. Requires build.sh or build.py to generate page
